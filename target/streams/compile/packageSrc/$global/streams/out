@@ -1,0 +1,13 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /Users/earltstephens/turing/1903_4module/playground/1sep19/play-samples-play-scala-hello-world-tutorial/target/scala-2.13/play-scala-seed_2.13-1.0-SNAPSHOT-sources.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	controllers/HomeController.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/earltstephens/turing/1903_4module/playground/1sep19/play-samples-play-scala-hello-world-tutorial/app/controllers/HomeController.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	application.conf[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/earltstephens/turing/1903_4module/playground/1sep19/play-samples-play-scala-hello-world-tutorial/conf/application.conf[0m
+[0m[[0m[0mdebug[0m] [0m[0m	routes[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/earltstephens/turing/1903_4module/playground/1sep19/play-samples-play-scala-hello-world-tutorial/conf/routes[0m
+[0m[[0m[0mdebug[0m] [0m[0m	messages[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/earltstephens/turing/1903_4module/playground/1sep19/play-samples-play-scala-hello-world-tutorial/conf/messages[0m
+[0m[[0m[0mdebug[0m] [0m[0m	logback.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/earltstephens/turing/1903_4module/playground/1sep19/play-samples-play-scala-hello-world-tutorial/conf/logback.xml[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
